@@ -1,0 +1,6 @@
+{
+  "name": "TruthLens AI",
+  "description": "AI-powered social media fake news, deepfake, and misinformation detection platform.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
